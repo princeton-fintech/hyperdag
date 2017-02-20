@@ -5,5 +5,5 @@ Coming soon...
 
 
 ### Dev setup
-See SETUP.md for instructions on how to get your dev environment going
+See the [setup instructions](SETUP/SETUP.md) for instructions on how to get your dev environment going.
 
